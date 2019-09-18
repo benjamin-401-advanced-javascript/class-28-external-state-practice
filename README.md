@@ -5,9 +5,9 @@
 ### Author: Benjamin Clark
 
 ### Props and State
-* [submission PR Challenge 1](https://github.com/benjamin-401-advanced-javascript/class-27/pull/2)
-* [submission PR Challenge 2](https://github.com/benjamin-401-advanced-javascript/class-27/pull/2)
-* [submission PR Challenge 3](https://github.com/benjamin-401-advanced-javascript/class-27/pull/2)
+* [submission PR Challenge 1](https://github.com/benjamin-401-advanced-javascript/class-28-props/pull/1)
+* [submission PR Challenge 2](https://github.com/benjamin-401-advanced-javascript/class-28-internal-state-practice/pull/1)
+* [submission PR Challenge 3](https://github.com/benjamin-401-advanced-javascript/class-28-external-state-practice/pull/1)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
